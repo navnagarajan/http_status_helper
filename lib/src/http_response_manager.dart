@@ -57,7 +57,7 @@ class HttpResponseManager {
     HttpStatusCode.k206PartialContent: "Partial Content",
     HttpStatusCode.k207MultiStatus: "Multi Status",
     HttpStatusCode.k208AlreadyReported: "Already Reported",
-    HttpStatusCode.k226IMUsed: "Imused",
+    HttpStatusCode.k226IMUsed: "Im used",
     HttpStatusCode.k300MultipleChoices: "Multiple Choices",
     HttpStatusCode.k301MovedPermanently: "Moved Permanently",
     HttpStatusCode.k302Found: "Found",

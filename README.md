@@ -5,7 +5,7 @@
 In your pubspec.yaml
 ```yaml
 dependencies:
-  http_status_helper: ^0.0.2
+  http_status_helper: ^1.0.0
 ```
 
 ## License

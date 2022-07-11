@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * Added missing export statement for class http_status_code.dart
+
+## 1.0.0
+
+* Added some examples
