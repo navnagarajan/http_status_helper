@@ -1,6 +1,6 @@
 name: http_status_helper
 description: Package to handle Http Status codes along with default or configurable message option
-version: 0.0.2
+version: 1.0.0
 homepage: https://github.com/navnagarajan/http_status_helper.git
 
 environment:
