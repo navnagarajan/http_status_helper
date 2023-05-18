@@ -74,29 +74,6 @@ abstract class HttpStatusCode {
   HttpStatusCode copyWith({String? message});
 }
 
-/*class Continue implements HttpStatusCode {
-  String? _message;
-
-  /// Value of [HttpStatusCode.k100Continue]
-  @override
-  int get statusCode => HttpStatusCode.k100Continue;
-
-  @override
-  String get message =>
-      _message ??
-      HttpResponseManager().getMessage(
-        statusCode: statusCode,
-      );
-
-  @override
-  HttpStatusCode copyWith({String? message}) => Continue(msg: message);
-
-  /// Default or configured message will replaced if the [message] was present
-  Continue({String? message}) {
-    _message = message;
-  }
-}*/
-
 class Continue implements HttpStatusCode {
   String? _message;
 
